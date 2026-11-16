@@ -1,0 +1,3 @@
+#pragma once
+
+#define EPP_VERSION "@PROJECT_VERSION@-@EPP_VERSION_SUFFIX@"
